@@ -1,0 +1,5 @@
+﻿namespace Advocate.Administration {
+    export interface RolePermissionListResponse extends Serenity.ListResponse<string> {
+    }
+}
+
